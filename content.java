@@ -14,6 +14,5 @@ public class Cwlcye {
         System.out.println("sbskt");
         System.out.println("vlpsr");
         System.out.println("lgnjn");
-        System.out.println("qqeyl");
     }
 }
