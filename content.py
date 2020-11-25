@@ -1,2 +1,1 @@
 print("xoppy")
-print("fdimq")
