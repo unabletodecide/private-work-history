@@ -1,2 +1,2 @@
 print("xoppy")
-print("syrpt")
+print("fdimq")
