@@ -1,1 +1,1 @@
-print("pajqt")
+print("oovml")
