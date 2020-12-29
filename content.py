@@ -1,2 +1,2 @@
 print("blqfa")
-print("advlg")
+print("yungt")
